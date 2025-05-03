@@ -12,7 +12,7 @@ The Contact Management System (CMS) is a web-based application designed to help 
 
 ## Technologies Used
 - **Backend**: Java, Spring Boot, PostgreSQL
-- **Frontend**: HTML, CSS, JavaScript, React.js (or whatever tech you used)
+- **Frontend**:  CSS, React.js 
 - **Database**: PostgreSQL
 
 ## Installation
